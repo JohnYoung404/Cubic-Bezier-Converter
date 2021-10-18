@@ -1,0 +1,24 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+Cubic-Bezier Converter/.vs/
+Cubic-Bezier Converter/Library/
+Cubic-Bezier Converter/Temp/
+Cubic-Bezier Converter/PC_Build/
+Cubic-Bezier Converter/Assets/ScreenCapture/
+Cubic-Bezier Converter/*.log
+Cubic-Bezier Converter/Logs
+Cubic-Bezier Converter/obj
+Cubic-Bezier Converter/*.csproj
+Cubic-Bezier Converter/*.sln
+Cubic-Bezier Converter/*.vsconfig
+*.pyc
+
+*.suo
+*.opensdf
+*.sdf
+EditorStartupPrefs.asset
+EditorStartupPrefs.asset.meta
+DOTweenSettings.asset
+DOTweenSettings.asset.meta
